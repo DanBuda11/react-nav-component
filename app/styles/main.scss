@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+}
+
+.navContainer {
+	// overflow: hidden;
+	// background-color: #9fc1ce;
+
+	.logo {
+		// float: left;
+		// padding: 0.5em;
+		// height: 4em;
+	}
+
+	.toggleContainer {
+
+		.toggleDiv {
+
+			.toggleImg {
+				// height: 4em;
+				// padding: 0.5em;
+				// float: right;
+			}
+		}
+
+		.narrowLinks {
+			// float: right;
+			// clear: both;
+			// text-align: right;
+
+			.narrowLink {
+				// color: #fff;
+				// text-decoration: none;
+				// display: block;
+				// font-size: 1.3em;
+				// margin: 0.5em 0.5em 0.5em 0;
+			}
+
+		}
+	}
+
+	.wideLinks {
+		// float: right;
+		// line-height: 5em;
+		// padding-right: 0.5em;
+		// margin: 0;
+
+		.wideLink {
+			// margin-right: 1.5em;
+			// color: #fff;
+			// text-decoration: none;
+			// font-size: 1.3em;
+		}
+	}
+}
