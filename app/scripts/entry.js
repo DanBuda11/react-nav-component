@@ -9,7 +9,7 @@ import TinyNav from './app';
 const navStyles = {
 	navContainer: {
 		overflow: 'hidden',
-		backgroundColor: '#9FC1CE'
+		backgroundColor: '#000000'
 	},
 	logoSrc: 'http://www.fillmurray.com/50/50',
 	logo: {
